@@ -10,6 +10,6 @@ The original Tableau visualization I created for this project can be found [here
 The visualization is based on insurance charge data from [here](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance).
 
 # Insights
-Insurance costs in this dataset fall roughly into three tiers: low cost, mid cost, and high cost. Low tier consists of only non-smokers. Breaking the visualization down further shows high tier consists largely of smokers with high BMI, with no significant difference in cost caused by sex or number of children. If you want to lower insurance costs, this data suggests that reducing smoking is by far the best way to accomplish that.
+Insurance costs in this dataset fall roughly into three tiers: low cost, mid cost, and high cost. Low tier consists of only non-smokers. Breaking the visualization down further shows high tier consists largely of smokers with high BMI, with no significant difference in cost caused by sex or number of children. If you want to lower insurance costs, this data suggests that reducing smoking is by far the best way to accomplish that. In fact, even in older patients, those who had chosen not to smoke and maintained a relatively low BMI saw a reduction in insurance costs by roughly a factor of 3. This factor is even higher among younger patients.
 
 
