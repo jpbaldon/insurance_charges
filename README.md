@@ -2,10 +2,9 @@
 A data visualization of insurance charges
 
 # Visualization
-The original Tableau visualization I created for this project can be found [here]([https://public.tableau.com/app/profile/jonathan.baldon/viz/VisualizationofInsuranceCharges/Dashboard1]).
+The original Tableau visualization I created for this project can be found [here](https://public.tableau.com/app/profile/jonathan.baldon/viz/VisualizationofInsuranceCharges/Dashboard1).
 
-![Global_Ed_and_Sal_Viz](![insurance_charges_viz](https://github.com/user-attachments/assets/1d0eab74-051f-443c-9740-78ae468aeeda)
-)
+![insurance_charges_viz](https://github.com/user-attachments/assets/1d0eab74-051f-443c-9740-78ae468aeeda)
 
 # About 
 The visualization is based on insurance charge data from [here](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance).
